@@ -30,6 +30,7 @@ Mientras el Site permanezca privado o antes de fijar el dominio público definit
 | 012 | El Eremita no ilumina todo el camino: ilumina lo que tiene delante | Texto y metadatos archivados · URL canónica registrada |
 | 013 | El Tarot no dicta un destino: muestra tendencias | Texto y metadatos archivados · URL canónica registrada |
 | 014 | Lo que puede esconderse al final de un libro | Texto y metadatos archivados · URL canónica registrada |
+| 015 | Repetir una tirada no es hacer seguimiento | Texto y metadatos archivados · URL canónica registrada |
 
 ## Criterio de fidelidad
 
