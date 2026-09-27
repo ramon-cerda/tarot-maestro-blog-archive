@@ -27,13 +27,12 @@ Mientras el Site permanezca privado o antes de fijar el dominio público definit
 | 009 | Astrocard’s (1980): el sistema de Maisonblanche que cruzó Tarot y astrología | Texto corregido y metadatos archivados |
 | 010 | No hay buenos ni malos métodos para echar las cartas | Texto y metadatos archivados · URL canónica registrada |
 | 011 | La carta no habla sola: por qué la posición también significa | Texto y metadatos archivados · URL canónica registrada |
-
-El artículo 010 consta ya como publicado y archivado en Scotland Yard.
+| 012 | El Eremita no ilumina todo el camino: ilumina lo que tiene delante | Texto y metadatos archivados · URL canónica registrada |
+| 013 | El Tarot no dicta un destino: muestra tendencias | Texto y metadatos archivados · URL canónica registrada |
+| 014 | Lo que puede esconderse al final de un libro | Texto y metadatos archivados · URL canónica registrada |
 
 ## Criterio de fidelidad
 
 No se declara archivada una versión textual que no haya sido cotejada con la última versión publicada conocida. En particular, los artículos 001–005 no se reconstruirán desde memoria ni desde borradores anteriores.
 
 © Ramón Cerdá. Todos los derechos reservados, salvo indicación expresa en contrario.
-
-| 012 | El Eremita no ilumina todo el camino: ilumina lo que tiene delante | Texto y metadatos archivados · URL canónica registrada |
