@@ -35,3 +35,5 @@ El artículo 010 consta ya como publicado y archivado en Scotland Yard.
 No se declara archivada una versión textual que no haya sido cotejada con la última versión publicada conocida. En particular, los artículos 001–005 no se reconstruirán desde memoria ni desde borradores anteriores.
 
 © Ramón Cerdá. Todos los derechos reservados, salvo indicación expresa en contrario.
+
+| 012 | El Eremita no ilumina todo el camino: ilumina lo que tiene delante | Texto y metadatos archivados · URL canónica registrada |
