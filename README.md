@@ -25,8 +25,9 @@ Mientras el Site permanezca privado o antes de fijar el dominio público definit
 | 007 | Frédéric Maisonblanche era Luc Uyttenhove: la identidad detrás del pseudónimo | Texto y metadatos archivados |
 | 008 | Le Tarot Grec: cuando un oráculo de 24 cartas quiso llamarse Tarot | Texto y metadatos archivados |
 | 009 | Astrocard’s (1980): el sistema de Maisonblanche que cruzó Tarot y astrología | Texto corregido y metadatos archivados |
+| 010 | No hay buenos ni malos métodos para echar las cartas | Texto y metadatos archivados |
 
-El artículo 010 no se incorpora hasta confirmar su publicación efectiva en el Site.
+El artículo 010 consta ya como publicado y archivado en Scotland Yard.
 
 ## Criterio de fidelidad
 
